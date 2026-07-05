@@ -115,7 +115,3 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais do desenvolvi
 ## 📸 Interface
 
 O sistema possui uma interface moderna com tons de azul, formulários centralizados, ícones intuitivos e navegação simples entre Login, Cadastro, Recuperação de Senha e Painel de Usuários.
-
-> **Sugestão:** adicione capturas de tela na pasta `assets/` e inclua-as neste README para deixar o repositório ainda mais profissional.
-
----
